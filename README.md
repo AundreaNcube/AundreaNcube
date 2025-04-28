@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Coding GIF]([https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://tenor.com/view/aesthetic-wallpaper-gif-24381112))
+![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlwanJwaTNiM2Y1eWFvZGY4cXczNDVwbWFhcmxzemZpdmdwYm90byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
  Hi, I’m Aundrea — a driven student on a mission to program success, upgrade my abilities, and deploy a standout professional brand. <br>I'm ready to push my limits and commit to excellence!
 
 
