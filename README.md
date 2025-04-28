@@ -4,7 +4,7 @@
 
 ## Hi, I’m Aundrea — a driven Computer Science student on a mission to program success, upgrade my abilities, and deploy a standout professional brand. I'm ready to push my limits and commit to excellence! Thank you for stopping by..😎
 
-
+---
 ## 🌐 Let's connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/u22747363_Aundrea/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/aundrea-ncube-1484a9356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aundreancu@gmail.com) 
 
