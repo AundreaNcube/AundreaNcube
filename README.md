@@ -2,9 +2,9 @@
 
 ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlwanJwaTNiM2Y1eWFvZGY4cXczNDVwbWFhcmxzemZpdmdwYm90byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
 
-## Hi, I’m Aundrea — a driven Computer Science student on a mission to program success, upgrade my abilities, and deploy a standout professional brand. I'm ready to push my limits and commit to excellence! Thank you for stopping by..😎
+~Hi, I’m Aundrea — a driven Computer Science student on a mission to program success, upgrade my abilities, and deploy a standout professional brand. I'm ready to push my limits and commit to excellence! Thank you for stopping by..😎
 
----
+
 ## 🌐 Let's connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/u22747363_Aundrea/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/aundrea-ncube-1484a9356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aundreancu@gmail.com) 
 
