@@ -1,3 +1,4 @@
+https://tenor.com/view/aesthetic-wallpaper-gif-24381112
 # 💫 About Me:
  Hi, I’m Aundrea — a driven student on a mission to program success, upgrade my abilities, and deploy a standout professional brand. <br>I'm ready to push my limits and commit to excellence!
 
