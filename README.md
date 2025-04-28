@@ -1,5 +1,6 @@
-<div class="tenor-gif-embed" data-postid="24381112" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/aesthetic-wallpaper-gif-24381112">Aesthetic Wallpaper GIF</a>from <a href="https://tenor.com/search/aesthetic+wallpaper-gifs">Aesthetic Wallpaper GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 # 💫 About Me:
+
+![Coding GIF]([https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://tenor.com/view/aesthetic-wallpaper-gif-24381112))
  Hi, I’m Aundrea — a driven student on a mission to program success, upgrade my abilities, and deploy a standout professional brand. <br>I'm ready to push my limits and commit to excellence!
 
 
